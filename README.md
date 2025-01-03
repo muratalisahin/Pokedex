@@ -1,0 +1,19 @@
+# Netflix-Clon
+# Coffe-Shop
+# Amazon-Clone
+
+# amazonclone
+# amazonclone
+# amazonclone
+# education-rneksite
+# jbl-clone
+# jbl-clone
+# jbl-clone
+# jbl-clone
+# jbl-clone
+# jbl-clone
+# jbl-clone
+# pokedex
+# Pokedex
+# Pokedex
+# Pokedex
