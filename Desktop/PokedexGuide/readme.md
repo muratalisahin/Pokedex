@@ -1,7 +1,8 @@
 
 <br>
  
- <h5> ☑Pokemonlar Görseldeki gibi Js,Css,Html ile birlikte dizayn edildi
+ <h5> ☑Pokemonlar Görseldeki gibi<br>
+  Js,Css,Html ile birlikte dizayn edildi
   <br>
 ☑ Görsel tasarım dili olarak
   <br>
