@@ -6,13 +6,13 @@
 ☑ Görsel tasarım dili olarak
   <br>
 ✲.css<br>
-✲.html
+✲.html <br>
 
 
 ☑Yazılım dili olarak
  <br>
 
-✲javascript 
+✲javascript  kullanıldı <br>
 </h5> 
 <br>
 
