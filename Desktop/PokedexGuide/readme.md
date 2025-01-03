@@ -2,9 +2,10 @@
 <br>
  
  <h5> ☑Pokemonlar Görseldeki gibi Js,Css,Html ile birlikte dizayn edildi
+  <br>
 ☑ Görsel tasarım dili olarak
   <br>
-✲.css
+✲.css<br>
 ✲.html
 
 
